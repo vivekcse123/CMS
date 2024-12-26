@@ -1,0 +1,167 @@
+{
+  "admins": [
+    {
+      "username": "aman@gmail.com",
+      "password": "aman@123",
+      "cnfpassword": "aman@123",
+      "id": "2Oo20eS"
+    },
+    {
+      "username": "vivek@gmail.com",
+      "password": "vivek123",
+      "cnfpassword": "vivek123",
+      "id": "8ue9FXk"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Akash kumar",
+      "company": "L&T",
+      "email": "akash@gmail.com",
+      "title": "Tester",
+      "photo": "https://i.pinimg.com/474x/0a/a8/58/0aa8581c2cb0aa948d63ce3ddad90c81.jpg",
+      "mobile": "6353344088",
+      "groupId": "4",
+      "id": 8
+    },
+    {
+      "name": "Aman Gupta",
+      "company": "tutorialspoint",
+      "email": "aman@gmail.com",
+      "title": "assistant engineer",
+      "photo": "https://i.pinimg.com/474x/7e/71/9b/7e719be79d55353a3ce6551d704e43ca.jpg",
+      "mobile": "8252240532",
+      "groupId": "3",
+      "id": 9
+    },
+    {
+      "name": "Md Arif",
+      "company": "digit",
+      "email": "mdarif@gmail.com",
+      "title": "Back end developer",
+      "photo": "https://png.pngtree.com/png-vector/20190629/ourmid/pngtree-office-work-user-icon-avatar-png-image_1527655.jpg",
+      "mobile": "8809975721",
+      "groupId": "2",
+      "id": 10
+    },
+    {
+      "name": "Sarika singh",
+      "company": "tutorix",
+      "email": "sarika123@gmail.com",
+      "title": "assistant engineer",
+      "photo": "https://png.pngtree.com/png-vector/20191116/ourmid/pngtree-business-office-girl-avatar-icon-vector-download-png-image_1991055.jpg",
+      "mobile": "8345670911",
+      "groupId": "2",
+      "id": 11
+    },
+    {
+      "name": "revathi satya",
+      "username": "revathi123@gmail.com",
+      "password": "revu123",
+      "cnfpassword": "revu123",
+      "company": "tutorialspoint",
+      "title": "assistant engineer",
+      "photo": "https://w7.pngwing.com/pngs/193/660/png-transparent-computer-icons-woman-avatar-avatar-girl-thumbnail.png",
+      "mobile": "8252199908",
+      "groupId": "2",
+      "id": 12,
+      "email": "revathi123@gmail.com"
+    },
+    {
+      "name": "Akanksha Gupta",
+      "email": "ammu123@gmail.com",
+      "password": "Ammu@123",
+      "cnfpassword": "Ammu@123",
+      "company": "NA",
+      "title": "Na",
+      "photo": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-female-avatar-vector-icon-png-image_3725439.jpg",
+      "mobile": "9353320733",
+      "groupId": "3",
+      "id": 13
+    },
+    {
+      "name": "vedu",
+      "email": "vedu@gmail.com",
+      "password": "vedu@123",
+      "cnfpassword": "vedu@123",
+      "company": "edwara",
+      "title": "engineer",
+      "photo": "https://e7.pngegg.com/pngimages/122/453/png-clipart-computer-icons-user-profile-avatar-female-profile-heroes-head.png",
+      "mobile": "5678765234",
+      "groupId": "2",
+      "id": 14
+    },
+    {
+      "name": "Surbhi Kumari",
+      "email": "surbhi@gmail.com",
+      "password": "Surbhi@123",
+      "cnfpassword": "Surbhi@123",
+      "company": "TCS",
+      "title": "SDE1",
+      "photo": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+      "mobile": "8252240532",
+      "groupId": "3",
+      "id": 15
+    },
+    {
+      "name": "Kanhaiya Verma",
+      "email": "kanhaiya@gmail.com",
+      "password": "Abc@1234",
+      "cnfpassword": "Abc@1234",
+      "company": "nextwave",
+      "title": "assistant engineer",
+      "photo": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "mobile": "08252199908",
+      "groupId": "2",
+      "id": 17
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "family"
+    },
+    {
+      "id": "4",
+      "name": "community"
+    }
+  ],
+  "tasks": [
+    {
+      "contact_name": "Akash kumar",
+      "contact_Id": 8,
+      "task": "jdhfewyrueyr",
+      "status": "unfinished",
+      "id": 1
+    },
+    {
+      "contact_name": "Akash kumar",
+      "contact_Id": 8,
+      "task": "akjhfudfhudf",
+      "status": "unfinished",
+      "id": 2
+    },
+    {
+      "contact_name": "Aman Gupta",
+      "contact_Id": 9,
+      "task": "sjfhfg",
+      "status": "unfinished",
+      "id": 3
+    },
+    {
+      "contact_name": "vedu",
+      "contact_Id": 14,
+      "task": "Create a Web Application",
+      "status": "unfinished",
+      "id": 4
+    }
+  ]
+}
