@@ -102,18 +102,6 @@
       "mobile": "8252240532",
       "groupId": "3",
       "id": 15
-    },
-    {
-      "name": "Kanhaiya Verma",
-      "email": "kanhaiya@gmail.com",
-      "password": "Abc@1234",
-      "cnfpassword": "Abc@1234",
-      "company": "nextwave",
-      "title": "assistant engineer",
-      "photo": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
-      "mobile": "08252199908",
-      "groupId": "2",
-      "id": 17
     }
   ],
   "groups": [
