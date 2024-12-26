@@ -16,9 +16,9 @@ You may also see any lint errors in the console.
 
 ### `npm start`
 run the server
-open [https://localhost:9000]
-first open the application folder in your favourite browser, then change the path to server
-to start the server use the `npm start` command
+The server will start running on (https://localhost:9000)
+First, start the server by opening the application folder in your favorite IDE. Then, 
+change the path to the server and use the `npm start` command to start it.
 
 ### `npm test`
 
