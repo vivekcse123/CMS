@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm start`
+run the server
+open [https://localhost:9000]
+first open the application folder in your favourite browser, then change the path to server
+to start the server use the `npm start` command
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
